@@ -2,3 +2,9 @@
     margin: 0;
     padding: 0;
 }
+.carousel-item {
+    padding: 8px;
+}
+body {
+    background-color:slategrey;
+}
