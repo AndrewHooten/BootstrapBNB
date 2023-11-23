@@ -8,3 +8,13 @@
 body {
     background-color:slategrey;
 }
+h1 {
+    text-align: center;
+}
+footer {
+    bottom: 0;
+    color: white;
+    background-color:black;
+    text-align: right;
+    padding:8px;
+}
